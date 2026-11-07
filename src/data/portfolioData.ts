@@ -14,10 +14,10 @@ export const personal = {
   degree: "Computer Engineering",
   status: "Currently open to Fortis Fellowship conversations",
   links: {
-    github: "https://github.com/babafemi",
-    linkedin: "https://linkedin.com/in/babafemi",
-    medium: "https://medium.com/@babafemi",
-    email: "mailto:babafemi@email.com",
+    github: "https://github.com/Femitun",
+    linkedin: "https://www.linkedin.com/in/bfemi",
+    medium: "https://medium.com/@babatundebabafemi26",
+    email: "mailto:babatundebabafemi26@gmail.com",
     resume: "/resume-babafemi.pdf",
   },
 };
@@ -138,6 +138,16 @@ export const experience = [
       "4.79 / 5.0 CGPA across a rigorous engineering curriculum spanning Digital Logic & VHDL with Cyclone II FPGA, C++/OpenGL graphics programming, enterprise software engineering, and advanced algorithms.",
     tags: ["4.79 CGPA", "VHDL", "FPGA", "C++/OpenGL", "First Class"],
     icon: "graduation-cap",
+  },
+  {
+    id: "naza-agape",
+    org: "Naza Agape Foundation",
+    role: "Community Volunteer & Active Member",
+    period: "Ongoing",
+    description:
+      "Partner with a Christian humanitarian organisation to drive community outreach, welfare, and educational initiatives for vulnerable children and families. Actively serve in ground-level operations and logistics to maximise the foundation's local social impact and support underserved demographics.",
+    tags: ["Community Outreach", "Humanitarian", "Education", "Welfare", "Volunteering"],
+    icon: "heart",
   },
 ];
 
